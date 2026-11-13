@@ -1,7 +1,7 @@
 # NexConnect
 
 <p align="center">
-  <strong>Ứng dụng chính thức dành cho server NEXVN</strong>
+  <strong>App chống gian lận dành cho server NEXVN</strong>
 </p>
 
 <p align="center">
